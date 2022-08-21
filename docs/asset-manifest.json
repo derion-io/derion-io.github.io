@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.611ce671.chunk.css",
-    "main.js": "/static/js/main.edf5c541.chunk.js",
-    "main.js.map": "/static/js/main.edf5c541.chunk.js.map",
+    "main.css": "/static/css/main.2519ea76.chunk.css",
+    "main.js": "/static/js/main.d3cf4000.chunk.js",
+    "main.js.map": "/static/js/main.d3cf4000.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d6c6214f.js",
     "runtime-main.js.map": "/static/js/runtime-main.d6c6214f.js.map",
     "static/js/2.441ab3e5.chunk.js": "/static/js/2.441ab3e5.chunk.js",
@@ -16,7 +16,7 @@
     "static/js/5.7dc8a245.chunk.js.map": "/static/js/5.7dc8a245.chunk.js.map",
     "index.html": "/index.html",
     "static/css/3.f4c56af9.chunk.css.map": "/static/css/3.f4c56af9.chunk.css.map",
-    "static/css/main.611ce671.chunk.css.map": "/static/css/main.611ce671.chunk.css.map",
+    "static/css/main.2519ea76.chunk.css.map": "/static/css/main.2519ea76.chunk.css.map",
     "static/js/2.441ab3e5.chunk.js.LICENSE.txt": "/static/js/2.441ab3e5.chunk.js.LICENSE.txt",
     "static/js/3.bab6fdf4.chunk.js.LICENSE.txt": "/static/js/3.bab6fdf4.chunk.js.LICENSE.txt",
     "static/media/main.scss": "/static/media/SpaceGrotesk-Regular.3ea0c5b1.ttf",
@@ -26,7 +26,7 @@
     "static/js/runtime-main.d6c6214f.js",
     "static/css/3.f4c56af9.chunk.css",
     "static/js/3.bab6fdf4.chunk.js",
-    "static/css/main.611ce671.chunk.css",
-    "static/js/main.edf5c541.chunk.js"
+    "static/css/main.2519ea76.chunk.css",
+    "static/js/main.d3cf4000.chunk.js"
   ]
 }
