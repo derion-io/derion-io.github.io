@@ -1,8 +1,8 @@
 {
-  "short_name": "Derivable",
-  "name": "Derivable - Open Perpetual AMM Protocol",
-  "description": "Open Perpetual AMM Protocol with infinite liquidity and no liquidation.",
-  "homepage_url": "https://derivable.finance",
+  "short_name": "Derion",
+  "name": "Decentralized Speculation Protocol",
+  "description": "On-chain Speculation Market for any Price or Value.",
+  "homepage_url": "https://derion.io",
   "start_url": ".",
   "display": "standalone",
   "theme_color": "#121212",
